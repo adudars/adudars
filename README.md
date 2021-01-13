@@ -5,12 +5,12 @@
 👩‍🎓 Sou formada no curso técnico de Informática desde 2019, também no IFES - Campus Serra<br>
 👩‍🔬 Sou bolsista pela faculdade no projeto de agricultura 4.0 "Pink Pepper Qualifier – Determinação da qualidade produtiva dos frutos
 da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional" que tem o objetivo de desenvolver e implementar um sistema para aprendizado de máquina com interface Web ou Mobile<br>
-🤝 Se eu não souber o que você procura, dê-me um tempo que eu vou me esforçar para aprender :)
+🤝 Se eu não souber o que você procura, dê-me um tempo que eu vou me esforçar para aprender :)<br><br>
 
 ### Conhecimentos
 📌 **INTERMEDIÁRIO:** Python e SQL<br>
 📌 **BÁSICO:** PHP, JS, C, JAVA, HTML e CSS, GitHub, SAP<br>
-📌 **APRENDENDO:** BI e DW com pentaho<br>
+📌 **APRENDENDO:** BI e DW com Pentaho<br><br>
 
 ### Contatos
 💻 [LinkedIn](https://www.linkedin.com/in/eduardarsimoes)<br>
