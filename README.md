@@ -8,7 +8,7 @@ da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional" 
 🤝 Se eu não souber o que você procura, dê-me um tempo que eu vou me esforçar para aprender :)<br><br>
 
 ### Conhecimentos
-📌 **INTERMEDIÁRIO:** Python e SQL<br>
+📌 **INTERMEDIÁRIO:** Python, SQL<br>
 📌 **BÁSICO:** PHP, JS, C, JAVA, HTML e CSS, GitHub, SAP<br>
 📌 **APRENDENDO:** BI e DW com Pentaho<br><br>
 
