@@ -13,6 +13,8 @@ da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional" 
 📌 **APRENDENDO:** BI e DW com Pentaho<br><br>
 
 ### Contatos
-💻 [LinkedIn](https://www.linkedin.com/in/eduardarsimoes)<br>
-📧 [E-mail](mailto:eduardarsimoes@agmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20perfil)<br>
-📜 [Curriculo](https://docs.google.com/document/d/1mCp0-LaCtpa360u6qQTaAK1sDMe3wxmPAz6qpPxv9bg/export?format=pdf)<br>
+[💻 LinkedIn](https://www.linkedin.com/in/eduardarsimoes)<br>
+[📧 E-mail](mailto:eduardarsimoes@agmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20perfil)<br><br>
+
+### Curriculo
+[📜](https://docs.google.com/document/d/1mCp0-LaCtpa360u6qQTaAK1sDMe3wxmPAz6qpPxv9bg/export?format=pdf)<br>
