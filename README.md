@@ -8,6 +8,7 @@
 da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional" que tem o objetivo de desenvolver e implementar um sistema para aprendizado de máquina com interface Web ou Mobile;<br>
 🤝 Se eu não souber o que você procura, dê-me um tempo que eu vou me esforçar para aprender :).<br><br>
 </p>
+
 ### Conhecimentos
 📌 **INTERMEDIÁRIO:** Python, SQL<br>
 📌 **BÁSICO:** PHP, JS, C, JAVA, HTML e CSS, GitHub, SAP<br>
