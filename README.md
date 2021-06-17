@@ -19,4 +19,4 @@ da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional" 
 [📧 E-mail](mailto:eduardarsimoes@agmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20perfil)<br><br>
 
 ### Curriculo
-[📜](https://docs.google.com/document/d/1mCp0-LaCtpa360u6qQTaAK1sDMe3wxmPAz6qpPxv9bg/export?format=pdf)<br>
+[📜](https://docs.google.com/document/d/1sU2pucS96ppf0nDId-jNDxDS-Wwn8LWLvlGFxSCffD0/export?format=pdf)<br>
