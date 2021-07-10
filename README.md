@@ -16,7 +16,7 @@ da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional" 
 
 ### Contatos
 [💻 LinkedIn](https://www.linkedin.com/in/eduardarsimoes)<br>
-[📧 E-mail](mailto:eduardarsimoes@agmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20perfil)<br><br>
+[📧 E-mail](mailto:eduardarsimoes@agmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20github)<br><br>
 
 ### Curriculo
 [📜](https://docs.google.com/document/d/1sU2pucS96ppf0nDId-jNDxDS-Wwn8LWLvlGFxSCffD0/export?format=pdf)<br>
