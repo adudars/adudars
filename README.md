@@ -12,7 +12,7 @@ da Aroeira (Schinus terebinthifolius Raddi) usando Inteligência Computacional" 
 ### Conhecimentos
 📌 **INTERMEDIÁRIO:** Python, SQL<br>
 📌 **BÁSICO:** PHP, JS, C, JAVA, HTML e CSS, GitHub, SAP<br>
-📌 **APRENDENDO:** BI e DW com Pentaho<br><br>
+📌 **APRENDENDO:** Power BI<br><br>
 
 ### Contatos
 [💻 LinkedIn](https://www.linkedin.com/in/eduardarsimoes)<br>
